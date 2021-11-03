@@ -4,8 +4,8 @@ import { HashLink } from 'react-router-hash-link';
 
 import { FaGithub , FaTwitter} from 'react-icons/fa';
 import { MdMail, MdPhone} from 'react-icons/md';
-import logo from '../images/My-logo4.ico'
-// import logo from '../images/logoB.png'
+// import logo from '../images/My-logo4.ico'
+import logo from '../images/logoV.png'
 
 class Sidebar extends Component {
     render() {
